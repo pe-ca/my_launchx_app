@@ -1,4 +1,5 @@
 const MissionCommander = require('./app/missionCommander')
+
 const ricardo = new MissionCommander("Ricardo")
 console.log(ricardo.name)
 
